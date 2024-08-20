@@ -1,0 +1,42 @@
+/* Custom Styles for Header */
+.header {
+    border-bottom: 1px solid #ddd;
+}
+
+.logo h1 {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.navbar-nav .nav-item .nav-link {
+    font-size: 1rem;
+    color: #333;
+}
+
+.navbar-nav .nav-item .nav-link:hover {
+    color: #007bff;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #004494;
+}
+
+/* Custom Styles for Form */
+form {
+    max-width: 600px;
+    margin: auto;
+}
+
+textarea {
+    resize: none;
+}
+
+.select {
+    margin-bottom: 20px;
+}
